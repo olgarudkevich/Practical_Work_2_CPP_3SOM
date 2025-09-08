@@ -8,7 +8,8 @@ int main() {
 
     S = a * b;
 
-    cout << "Площа = " << _ << endl;
+    cout << "Площа = " << S << endl;
     return 0;
 }
+
 
