@@ -10,9 +10,10 @@ int main() {
     P = 2 * PI * r; 
     S = PI * r * r; 
 
-    cout << "Периметр P = " << __ << ", Площа S = " << __ << endl;
+    cout << "Периметр P = " << P << ", Площа S = " << S << endl;
     return 0;
 }
+
 
 
 
