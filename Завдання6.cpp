@@ -7,8 +7,8 @@ int main() {
     cout << "Введіть радіус кола: ";
     cin >> r;
 
-    P = 2 * PI * __; 
-    S = PI * __ * __; 
+    P = 2 * PI * r; 
+    S = PI * r * r; 
 
     cout << "Периметр P = " << __ << ", Площа S = " << __ << endl;
     return 0;
